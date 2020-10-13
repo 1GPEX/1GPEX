@@ -1,5 +1,4 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1GPEX" alt="1GPEX" /> </p>
 
 <!--
 **1GPEX/1GPEX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ⚡ Fun fact: Im human
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=1GPEX&hide=[])
