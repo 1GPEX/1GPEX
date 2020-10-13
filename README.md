@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning: python
+- 💬 Contact me: 🎃 SpookyKazult 🎃#4999
 - ⚡ Fun fact: Im human
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=1GPEX&hide=[])
