@@ -40,6 +40,3 @@ Here are some ideas to get you started:
 [JS]: https://en.wikipedia.org/wiki/JavaScript
 [NodeJS]: https://en.wikipedia.org/wiki/Node.js
 [npm]: https://npmjs.com
-[Git]: https://en.wikipedia.org/wiki/Git
-[GitHub]: https://en.wikipedia.org/wiki/GitHub
-[GitHubRepo]: https://github.com/1GPEX
