@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning: python
+- 🔭 I’m currently working on Lazy Owl
+- 🌱 I’m currently learning python
 - 💬 Contact me: 🎃 SpookyKazult 🎃#4999
 - ⚡ Fun fact: Im human
 
