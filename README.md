@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <br />
 
-<h1 align="center">### Hi there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <h3 align="center">- 🔭 I’m currently working on Lazy Owl
 <h3 align="center">- 💬 Contact me: 🎃 SpookyKazult 🎃#4999
