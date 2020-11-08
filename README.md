@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋</h1>
 
 <h3 align="center">- 🔭 I’m currently working on Lazy Owl
-<h3 align="center">- 💬 Contact me: 🎃 SpookyKazult 🎃#4999
+<h3 align="center">- 💬 Contact me: Kazult#4999
 <h3 align="center">- ⚡ Fun fact: Im human
 
 <hr>
