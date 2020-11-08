@@ -14,30 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Lazy Owl
-- 🌱 I’m currently learning python
-- 💬 Contact me: 🎃 SpookyKazult 🎃#4999
-- ⚡ Fun fact: Im human
-
 <br />
 
-### Languages And Tools I Use:
+<h1 align="center">Hello 👋</h1>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJS]
-[<img align="left" alt="npm"   width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />][npm]
+<h3 align="center">- 🔭 I’m currently working on Lazy Owl
+<h3 align="center">- 💬 Contact me: 🎃 SpookyKazult 🎃#4999
+<h3 align="center">- ⚡ Fun fact: Im human
 
-<br />
-<br />
+<hr>
+<h3 align="center">Tools</h3>
+<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img>
+<hr>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=1GPEX&hide=[])
-
-<!--END_SECTION:waka-->
-
-</details>
-
-[VSCode]: https://code.visualstudio.com/
-[JS]: https://en.wikipedia.org/wiki/JavaScript
-[NodeJS]: https://en.wikipedia.org/wiki/Node.js
-[npm]: https://npmjs.com
+<h3 align="center">Statistics</h3>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1GPEX&show_icons=true&theme=dracula" alt="1GPEX" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1GPEX&show_icons=true&theme=dracula&layout=compact" alt="iColtz" /></p>
